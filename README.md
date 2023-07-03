@@ -23,7 +23,7 @@ The probability of a mutation occurring during the breeding process is 1%. This 
 This means the genetic algorithm will iterate 150 times to find the optimum solution.
 
 ### Optimal Solution:
-Vaccine Distribution System for the state of Uttar Pradesh, India
-Please visit the following 15 cities in order:
-['Lucknow', 'Gorakhpur', 'Varanasi', 'Prayagraj', 'Kanpur', 'Jhansi', 'Bareilly', 'Firozabad', 'Agra', 'Aligarh', 'Noida', 'Ghaziabad', 'Meerut', 'Moradabad', 'Saharanpur']
+Vaccine Distribution System for the state of Uttar Pradesh, India<be>
+Please visit the following 15 cities in order:<br>
+['Lucknow', 'Gorakhpur', 'Varanasi', 'Prayagraj', 'Kanpur', 'Jhansi', 'Bareilly', 'Firozabad', 'Agra', 'Aligarh', 'Noida', 'Ghaziabad', 'Meerut', 'Moradabad', 'Saharanpur'] <be>
 The total distance for this journey is about 2175.7 kilometers.
